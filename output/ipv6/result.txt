@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-11 18:31:06,https://event.pull.hebtv.com/jishi/cp1.m3u8$订阅源
+2025-11-13 18:31:30,https://event.pull.hebtv.com/jishi/cp1.m3u8$订阅源
 
 📺央视频道,#genre#
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8$订阅源
@@ -103,7 +103,7 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8#rtsp://103.251.96.71/PLTV/88
 ☘️江苏频道,#genre#
 新沂新闻,http://live.xysrmt.cn/xwzh/sd/live.m3u8?zjiangsd"$订阅源
 新沂生活,http://live.xysrmt.cn/shpd/sd/live.m3u8?zjiangsd$订阅源
-江苏教育,https://mgtv.ottiptv.cc/migu/628008321.m3u8?migutoken=2a14b3aabc488208548ee93104e880b74d4a395bfa44d7066aecd401da116ee25176f823087e3b4982d4720bd660d81bfff58ed9193c1df26c94a3e4f7a6c10952e5d975a5e4f6244fd9dcc62d$订阅源
+江苏教育,https://mgtv.ottiptv.cc/migu/628008321.m3u8$订阅源
 淮安新闻综合,https://mgtv.ottiptv.cc/migu/639731826.m3u8?migutoken=89801032decec35cded1fe460c65b70719e7f7ccca796b79a6d15743ff1e1b6027c64b5a219df5a669815a964bb20b14d20dcdbf11174da7bf6d923797925fb5111edcc7d3edc1954eb9b620e6$订阅源
 淮阴综合,https://huaiyin-tv-replay.cm.jstv.com/huaiyin-tv/huaiyinf.m3u8$订阅源
 溧水新闻综合,https://mgtv.ottiptv.cc/migu/639737327.m3u8?migutoken=3b98c468491b49a9629c5832cb109bafb9b71d85fa9145eff76d80284d719f48d87d48bc93b52f5004d1c3b4efa4c9f7974e2e9f495140a84b8e678bfa1991e8bd705a52fc016f51131cfd3872$订阅源
@@ -132,9 +132,7 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8#rtsp://103.251.96.71/PLTV/88
 ☘️四川频道,#genre#
 叙永综合,rtmp://luzhi.xuyongrongmei.com:1935/live/xyxw?zsicd$订阅源
 旺苍新闻综合,http://live.spccmc.com:90/live/spxwzh.m3u8$订阅源
-松潘新闻综合,http://live.spccmc.com:90/live/spxwzh.m3u8?zsicd$订阅源
 汶川新闻综合,rtmp://live.iwcmt.cn:1936/live/zhxw$订阅源
-汶川新闻综合,http://live.iwcmt.cn:90/live/zhxw.m3u8?zsicd$订阅源
 泸县新闻综合,https://m3u8channel.ganzitv.com/nmip-media/channellive/channel1/playlist.m3u8$订阅源
 甘孜综合,https://m3u8channel.ganzitv.com/nmip-media/channellive/channel1/playlist.m3u8$订阅源
 荥经综合,https://file.ysxtv.cn/nmip-media/channellive/channel101492/playlist.m3u8$订阅源
@@ -232,7 +230,6 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8#rtsp://103.251.96.71/PLTV/88
 内蒙古经济生活,https://ls.qingting.fm/live/1885/64k.m3u8$订阅源
 
 ☘️云南频道,#genre#
-文山州公共,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel8/playlist.m3u8?zyund$订阅源
 文山州新闻综合,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8?zyund$订阅源
 
 ☘️青海频道,#genre#
@@ -248,8 +245,12 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8#rtsp://103.251.96.71/PLTV/88
 黑龙江新闻,https://ls.qingting.fm/live/4974/64k.m3u8$订阅源
 
 🌊港·澳·台,#genre#
+凤凰中文,https://cdn6.101.qzz.io/163189/fhzw$订阅源
 凤凰中文,https://smt.1678520.xyz/smt3.2.1.php?id=phoenixtv_hd$订阅源
+凤凰资讯,https://cdn6.101.qzz.io/163189/fhzx$订阅源
 凤凰资讯,https://smt.1678520.xyz/smt3.2.1.php?id=phoenixinfo_hd$订阅源
+凤凰香港,https://cdn6.101.qzz.io/163189/fhhk$订阅源
+凤凰香港,https://smt.1678520.xyz/smt3.2.1.php?id=hkphoenix_twn$订阅源
 凤凰香港,https://epg.pw/stream/8770e89223a086eb1b8a0c931e42296d772a8069ad3eb72540e0c434e7cb3e93.m3u8$订阅源
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$LR•IPV4『线路8』
 纬来体育,https://epg.pw/stream/8855a9936e37e608a0ec8a014cce1673dee9c5d68d560da376cc92e5edef2b25.m3u8$订阅源
@@ -262,6 +263,7 @@ CHC动作电影,https://mgtv.ottiptv.cc/migu/644368714.m3u8?migutoken=4560e7c305
 黑莓电影,https://epg.pw/stream/ffcb6572863f0745a7369fbd9d901f1dfd0ab8fab8bad8bebb4e01c90b303c47.m3u8$订阅源
 天映经典,https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8$订阅源
 天映经典,https://epg.pw/stream/cb817875cf26eb683af274dd8cdf7f559a71353d9565c32447c8d98894bc8095.ctv$订阅源
+无线星河,https://cdn6.101.qzz.io/163189/tvbxh$订阅源
 
 🏀体育频道,#genre#
 广东体育,https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8$订阅源
