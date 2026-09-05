@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-09-03 22:26:27,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源
+2026-09-05 21:33:16,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源
 
 📺央视频道,#genre#
 CCTV-4,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源
@@ -61,7 +61,6 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8$订阅源
 南京教科,http://nklive.nbs.cn/hls/75b3c462-b831-4de7-a34b-5d3221db2069/index.m3u8$订阅源
 南京新闻综合,http://nklive.nbs.cn/hls/d511bc9d-a694-4453-b3a2-4fc842cc97a1/index.m3u8$订阅源
 新沂生活,http://live.xysrmt.cn/shpd/sd/live.m3u8?zjiangsd$订阅源
-江苏体育,https://live.chinacert.cftest5.cn/cnmg/live/626064707$订阅源
 江苏公共,https://live.chinacert.cftest5.cn/cnmg/live/626064693$订阅源
 江苏城市,https://live.chinacert.cftest5.cn/cnmg/live/626064714$订阅源
 江苏影视,https://live.chinacert.cftest5.cn/cnmg/live/626064697$订阅源
@@ -89,6 +88,7 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8$订阅源
 叙永综合,rtmp://luzhi.xuyongrongmei.com:1935/live/xyxw?zsicd$订阅源
 松潘新闻综合,http://live.spccmc.com:90/live/spxwzh.m3u8?zsicd$订阅源
 汶川新闻综合,rtmp://live.iwcmt.cn:1936/live/zhxw$订阅源
+汶川新闻综合,http://live.iwcmt.cn:90/live/zhxw.m3u8?zsicd$订阅源
 泸县新闻综合,https://m3u8channel.ganzitv.com/nmip-media/channellive/channel1/playlist.m3u8$订阅源
 甘孜综合,https://m3u8channel.ganzitv.com/nmip-media/channellive/channel1/playlist.m3u8$订阅源
 营山电视台,https://file.ysxtv.cn/nmip-media/channellive/channel101492/playlist.m3u8$订阅源
@@ -129,7 +129,7 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8$订阅源
 山东生活,http://ls.qingting.fm/live/60260.m3u8$订阅源
 
 ☘️山西频道,#genre#
-古县综合,https://l2fpdktp.live.sxmty.com/live/hls/e4c3b363cc4549788e2d983f403e07db/d99ce1eb686e41b9afc888110bd95aa7.m3u8?zshanxd$订阅源
+定襄综合,http://lbyzztfe.live.sxmty.com/live/hls/645ff4c60e0a49f0a203abbd73dd8be9/0720e665f10f48e98c9639f4f492fb4a-1.m3u8?zshanxd$订阅源
 平遥新闻综合,https://tntgjhjb.live.sxmty.com/live/hls/3a4585ac11ec4e1bb07b419101b370c3/baf63e2b313440c2a25d7859f9b73b05-1.m3u8?zshanxd$订阅源
 怀仁综合,https://1yp7hc5p.live.sxmty.com/live/hls/bff8529922344209985b6e49baa9555a/efa2543628fc4a7ea93d3d6c975f77dc-1.m3u8$订阅源
 怀仁综合,http://1yp7hc5p.live.sxmty.com/live/hls/bff8529922344209985b6e49baa9555a/efa2543628fc4a7ea93d3d6c975f77dc.m3u8?zshanxd,$订阅源
@@ -179,7 +179,6 @@ Viutv,http://r.jdshipin.com/vSJvl$订阅源
 🏀体育频道,#genre#
 广东体育,https://cdn.qd.je/163189/gdty$订阅源
 五星体育,https://cdn.qd.je/163189/wxty$订阅源
-江苏体育,https://live.chinacert.cftest5.cn/cnmg/live/626064707$订阅源
 
 🪁动画频道,#genre#
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8$订阅源
@@ -192,9 +191,7 @@ Viutv,http://r.jdshipin.com/vSJvl$订阅源
 中华小当家,https://live.ottiptv.cc/huya/11342413$订阅源
 猫和老鼠,https://live.metshop.top/huya/11352879$订阅源
 猫和老鼠,https://live.ottiptv.cc/huya/11352879$订阅源
-经典动漫,https://www.goodiptv.club/yy/22777075$订阅源
 蜡笔小新,https://live.ottiptv.cc/bilibili/30837590$订阅源
-漫画解说,https://www.goodiptv.club/douyu/5907076$订阅源
 
 🎮游戏频道,#genre#
 
